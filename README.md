@@ -19,6 +19,16 @@ The objective of this project is to:
 - Provide executive-level business insights
 
 ---
+## Project Highlights
+
+* Predicted customer churn using Logistic Regression and Random Forest models
+* Achieved 78.04% predictive accuracy
+* Identified 65 high-risk customers
+* Quantified approximately $69K in annual revenue at risk
+* Built customer risk scoring framework for proactive retention campaigns
+* Developed executive Tableau dashboard for business decision-making
+* Performed feature importance analysis to identify key churn drivers
+---
 
 ## Tools & Technologies
 
